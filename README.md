@@ -13,3 +13,6 @@ Test of the stars shield: [![GitHub stars](https://img.shields.io/github/stars/d
 
 Test of the license shield: [![GitHub license](https://img.shields.io/github/license/david81982/TEST.svg)](https://github.com/david81982/TEST)
 
+Test issue color W social format: [![GitHub issues](https://img.shields.io/github/issues/david81982/TEST.svg?color=red&style=social)](https://github.com/david81982/TEST/issues)
+
+Test fork format popout: [![GitHub forks](https://img.shields.io/github/forks/david81982/TEST.svg?style=popout)](https://github.com/david81982/TEST/network)
