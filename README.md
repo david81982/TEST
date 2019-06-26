@@ -16,3 +16,5 @@ Test of the license shield: [![GitHub license](https://img.shields.io/github/lic
 Test issue color W for-the-badge format: [![GitHub issues](https://img.shields.io/github/issues/david81982/TEST.svg?color=yellow&style=for-the-badge)](https://github.com/david81982/TEST/issues)
 
 Test fork format popout: [![GitHub forks](https://img.shields.io/github/forks/david81982/TEST.svg?style=popout)](https://github.com/david81982/TEST/network)
+
+Twitter test: [![Twitter](https://img.shields.io/twitter/url/https/github.com/david81982/TEST.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fdavid81982%2FTEST)
