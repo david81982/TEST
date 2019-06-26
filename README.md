@@ -18,3 +18,5 @@ Test issue color W for-the-badge format: [![GitHub issues](https://img.shields.i
 Test fork format popout: [![GitHub forks](https://img.shields.io/github/forks/david81982/TEST.svg?style=popout)](https://github.com/david81982/TEST/network)
 
 Twitter test: [![Twitter](https://img.shields.io/twitter/url/https/github.com/david81982/TEST.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fdavid81982%2FTEST)
+
+version test: ![GitHub manifest version](https://img.shields.io/github/manifest-json/v/david81982/TEST.svg?logo=1.0.0&logoColor=blue&style=plastic)
